@@ -9,15 +9,15 @@ because I am intrested in reverse engineering and how everything is works from t
 
 ## What am I currentrly working on?
 
-Right now I am working on messenger project and some other cool stuff (for example, telegram-bot for studying needs...)\
+Right now I am working on messenger project and some other cool stuff (for example, telegram-bot for studying needs...)
 
 ## What tools am I use?
 
-OS: Windows 10-11/Arch Linux btw...\
+OS: Windows 10-11/Arch Linux btw...
 
-Code Editor: NeoVim\
+Code Editor: NeoVim
 
-Other tools: Wireshark, Nmap, Buirpsuite, airstrike-ng...\
+Other tools: Wireshark, Nmap, Buirpsuite, airstrike-ng...
 
 ## How to reach me?
 
