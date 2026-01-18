@@ -24,7 +24,7 @@ Other tools: Wireshark, Nmap, Buirpsuite, airstrike-ng...
 Well, you can use:
 
 - my main mail: *mailto:platon160106@gmail.com*
-- my telegram id: *t.me/win4er_inf*
+- my telegram id: [*t.me/win4er_inf*](https://t.me/win4er_inf)
 - my discord: win4er
 
 <!--
