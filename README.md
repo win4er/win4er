@@ -23,8 +23,8 @@ Other tools: Wireshark, Nmap, Buirpsuite, airstrike-ng...
 
 Well, you can use:
 
-- my main mail: *platon160106@gmail.com*
-- my telegram id: @win4er_inf
+- my main mail: *mailplaton160106@gmail.com*
+- my telegram id: *t.me/win4er_inf*
 - my discord: win4er
 
 <!--
